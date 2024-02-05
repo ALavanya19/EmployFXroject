@@ -1,0 +1,837 @@
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - LoginPage Url Validation Successfull - PASS 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - LoginPage Heading Label Text validation Successfull - PASS 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - LoginPage EmployFx Label Text Validation Successfull - PASS 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - LoginPage EmployFX Management Label Text Validation Successfull - PASS 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - null User Login Successfull & Navigated to DashboardPage Successfully - PASS 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Navigated to ForgotPassword Page successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - LoginPage Forgot Password Label Text Validation Successfull - PASS 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - LoginPage Email Label Text Validation Successfull - PASS 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - LoginPage Password Label Text Validation Successfull - PASS 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - LoginPage Fields Availability validation Successfull - PASS
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 401 - Page not Found error Showing Successfull - PASS
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 401 - Page not Found error Showing Successfull - PASS
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - AdminHomePage Current URL Validation Successfull - PASS
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - AdminHomePage Title Validation Successfull - PASS
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - AdminHomePage NotificationsList Validation Successfull - PASS
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Logged Out Successfully - PASS
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - AdminHomePage Logged In User Image displaying Successfully - PASS
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Chrome Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Admin MyDetails-EmployemntHistory Page Current URL Validation Successfull - PASS
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Admin MyDetails-EmployemntHistory Page Title Validation Successfull - PASS
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Edge Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Admin MyDetails-Employment History Page Elements should be as Per Requirement Validation Successfull, All Elements are available - FAIL
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Admin MyDetails-Employment History Page Elements should be as Per Requirement Validation Successfull, All Elements are available - FAIL
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Admin MyDetails-Employment History Page Elements should be as Per Requirement Validation Successfull, All Elements are available - FAIL
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Admin MyDetails-Employment History Page Elements should be as Per Requirement Validation Successfull, All Elements are available - PASS
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Admin MyDetails-Employment History Page Add Employment History PopUp Elements Should be as per requirement Validation Successfull - PASS
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] WARN com.Log.Log - Selected state not exist
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - LoginPage Url Validation Successfull - PASS 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - LoginPage Heading Label Text validation Successfull - PASS 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - LoginPage EmployFx Label Text Validation Successfull - PASS 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - LoginPage EmployFX Management Label Text Validation Successfull - PASS 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - null User Login Successfull & Navigated to DashboardPage Successfully - PASS 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Navigated to ForgotPassword Page successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - 
+[main] INFO com.Log.Log - LoginPage Title Validation Unsuccessfull - FAIL 
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] WARN com.Log.Log - Selected state not exist
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] WARN com.Log.Log - Selected state not exist
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] WARN com.Log.Log - Selected state not exist
+[main] INFO com.Log.Log - Unable to Create record, Admin MyDetails-Employment History Page Add Employment History PopUp All Fields Data with Save Button Validation Unsuccessfull - FAIL
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Application closed successfully
+[main] INFO com.Log.Log - Property File Loaded Successfully
+[main] INFO com.Log.Log - Extent Report Loaded successfully
+[main] INFO com.Log.Log - Firefox Driver Launched Successfully
+[main] INFO com.Log.Log - Application Luanched Successfully
+[main] INFO com.Log.Log - Record Created Successfull, Admin MyDetails-Employment History Page Add Employment History PopUp All Fields Data with Cancel Button Validation Successfull - PASS
+[main] INFO com.Log.Log - Application closed successfully

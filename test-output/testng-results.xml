@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="10" total="11" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-05T17:22:53 IST" name="Default suite" finished-at="2023-12-05T17:23:39 IST" duration-ms="45764">
+    <groups>
+    </groups>
+    <test started-at="2023-12-05T17:22:53 IST" name="Default test" finished-at="2023-12-05T17:23:39 IST" duration-ms="45764">
+      <class name="com.TestCases.AdminMyDetailsEmploymentHistoryPageTest">
+        <test-method is-config="true" signature="extentReportsInititation()[pri:0, instance:com.TestCases.AdminMyDetailsEmploymentHistoryPageTest@4d154ccd]" started-at="2023-12-05T17:22:53 IST" name="extentReportsInititation" finished-at="2023-12-05T17:22:53 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportsInititation -->
+        <test-method is-config="true" signature="myDetails_EmploymentHistoryPage_SetUp()[pri:0, instance:com.TestCases.AdminMyDetailsEmploymentHistoryPageTest@4d154ccd]" started-at="2023-12-05T17:22:53 IST" name="myDetails_EmploymentHistoryPage_SetUp" finished-at="2023-12-05T17:23:11 IST" duration-ms="18332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myDetails_EmploymentHistoryPage_SetUp -->
+        <test-method signature="myDetails_EmploymentHistory_AddEmploymenthistoryPopUp_AllFieldsDataWithCancelButton_Validation_Test()[pri:10, instance:com.TestCases.AdminMyDetailsEmploymentHistoryPageTest@4d154ccd]" started-at="2023-12-05T17:23:11 IST" name="myDetails_EmploymentHistory_AddEmploymenthistoryPopUp_AllFieldsDataWithCancelButton_Validation_Test" description="Admin MyDetails-Employment History Page Add Employment History PopUp All Fields Data with Cancel Button Validation" finished-at="2023-12-05T17:23:36 IST" duration-ms="25084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myDetails_EmploymentHistory_AddEmploymenthistoryPopUp_AllFieldsDataWithCancelButton_Validation_Test -->
+        <test-method is-config="true" signature="myDetails_EmploymentHistoryPage_TearDown()[pri:0, instance:com.TestCases.AdminMyDetailsEmploymentHistoryPageTest@4d154ccd]" started-at="2023-12-05T17:23:36 IST" name="myDetails_EmploymentHistoryPage_TearDown" finished-at="2023-12-05T17:23:39 IST" duration-ms="2302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myDetails_EmploymentHistoryPage_TearDown -->
+      </class> <!-- com.TestCases.AdminMyDetailsEmploymentHistoryPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

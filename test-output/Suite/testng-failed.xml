@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.TestCases.DashboardPageTest">
+        <methods>
+          <include name="validating_DashboardPage_HeadingLabelText_Test"/>
+          <include name="validating_BusinessCategories_Test"/>
+          <include name="validating_Preferences_Test"/>
+          <include name="validating_DashboardPage_Title_Test"/>
+          <include name="validating_LogOut_Test"/>
+          <include name="dashboardPage_SetUp"/>
+          <include name="validating_Companies_Test"/>
+          <include name="validating_UserProfile_Test"/>
+          <include name="extentReportsInititation"/>
+          <include name="validating_DashboardPage_URL_Test"/>
+          <include name="dashboardPage_ValidatingBrowserBackButton_Test"/>
+          <include name="validating_HelpAndSupport_Test"/>
+          <include name="dashboardPage_TearDown"/>
+          <include name="dashboardPage_ValidatingLoggingOutBackButon_Test"/>
+        </methods>
+      </class> <!-- com.TestCases.DashboardPageTest -->
+      <class name="com.TestCases.BusinessCategoriesPageTest">
+        <methods>
+          <include name="validating_CloseButtonWithDetails_Test"/>
+          <include name="validating_EditCategoryPopUp_Test"/>
+          <include name="businessCategoriesPage_TearDown"/>
+          <include name="validating_DeletePopUp_Validation_Test"/>
+          <include name="validating_AddCategoryButton_Test"/>
+          <include name="validating_EditCategoryPopUpCloseButtonWithDetails_Test"/>
+          <include name="validating_AddCategoryHeadingLabelText_Test"/>
+          <include name="validating_CancelButtonWithDetails_Test"/>
+          <include name="businessCategoryPage_ValidatingBrowserBackButton_Test"/>
+          <include name="validating_ExistingCategoryName_Test"/>
+          <include name="businessCategoryPage_ValidatingLoggingOutBackButon_Test"/>
+          <include name="validating_Title_Test"/>
+          <include name="validating_EditCategoryPopUpCancelButtonWithOutDetails_Test"/>
+          <include name="validating_HeadingLabelText_Test"/>
+          <include name="validating_EditCategoryPopUpCancelButtonWithDetails_Test"/>
+          <include name="validating_SearchOption_Test"/>
+          <include name="validating_EditCategoryPopUpSaveButtonWithDetails_Test"/>
+          <include name="validating_CurrentUrl_Test"/>
+          <include name="businessCategoriesPage_SetUp"/>
+          <include name="validating_DeletePopUp_CancelButton_Validation_Test"/>
+          <include name="validating_EditCategoryPopUpDeletedCategoryName_Test"/>
+          <include name="validating_EditCategoryPopUpCloseButtonWithOutDetails_Test"/>
+          <include name="validating_SaveButtonWithDetails_Test"/>
+          <include name="extentReportsInititation"/>
+          <include name="validating_EditCategoryPopUpExistingCategoryName_Test"/>
+          <include name="validating_DeletedCategoryName_Test"/>
+          <include name="validating_EditCategoryHeadingLabelText_Test"/>
+          <include name="validating_CancelButtonWithOutDetails_Test"/>
+          <include name="validating_DeletePopUp_SaveButton_Validation_Test"/>
+          <include name="validating_CloseButtonWithOutDetails_Test"/>
+        </methods>
+      </class> <!-- com.TestCases.BusinessCategoriesPageTest -->
+      <class name="com.TestCases.AdminMyDetailsEducationDetailsTest">
+        <methods>
+          <include name="myDetails_EducationDetails_CurrentUrl_Validation_Test"/>
+          <include name="myDetails_EducationDetails_SetUp"/>
+          <include name="myDetails_EducationDetails_Title_Validation_Test"/>
+          <include name="presencesOfElements_Validation_Test"/>
+          <include name="myDetails_EducationDetails_TableHeader_Validation_Test"/>
+          <include name="myDetails_ContactPage_LogOutBrowsingBack_Validation_Test"/>
+          <include name="myDetails_EducationDetails_TearDown"/>
+          <include name="myDetails_EducationDetails_AddEducationDetailsPopUp_MandatoryFieldDataWithSavButton_Validation_Test"/>
+          <include name="myDetails_EducationDetails_AddEducationDetailsPopUp_AllFieldDataWithSavButton_Validation_Test"/>
+          <include name="extentReportsInititation"/>
+          <include name="myDetails_EducationDetails_AddEducationDetailsPopUpHeader_Validation_Test"/>
+          <include name="myDetails_EducationDetails_AddEducationDetailsPopUp_AllFieldDataWithCancelButton_Validation_Test"/>
+          <include name="myDetails_EducationDetails_AddButton_Validation_Test"/>
+          <include name="myDetails_EducationDetails_AddEducationDetailsPopUp_AllFieldDataWithCloseButton_Validation_Test"/>
+        </methods>
+      </class> <!-- com.TestCases.AdminMyDetailsEducationDetailsTest -->
+      <class name="com.TestCases.CompanyListPageTest">
+        <methods>
+          <include name="validating_companyListPage_HeadingLabelText_Test"/>
+          <include name="companiesPgae_SetUp"/>
+          <include name="companyListPage_ValidatingLoggingOutBackButon_Test"/>
+          <include name="validating_companyListPage_AddCompanyButton_Test"/>
+          <include name="validating_companyListPage_Title_Test"/>
+          <include name="extentReportsInititation"/>
+          <include name="validating_companyListPage_SearchOption_Test"/>
+          <include name="validating_companyListPage_CurrentUrl_Test"/>
+          <include name="companyListPage_TearDown"/>
+        </methods>
+      </class> <!-- com.TestCases.CompanyListPageTest -->
+      <class name="com.TestCases.AdminMyDetailsContactPageTest">
+        <methods>
+          <include name="myDetails_ContactPage_AddEmergencyContactWithCloseButton_Validation_Test"/>
+          <include name="myDetails_ContactPage_AddEmergencyContactWithAllFieldsData_Validation_Test"/>
+          <include name="myDetails_ContactPage_AddPresentAddressWithMandatoryFieldsData_Validation_Test"/>
+          <include name="myDetails_ContactPage_AddPresentAddressWithAllFieldsData_Validation_Test"/>
+          <include name="myDetails_ContactPage_EmergencyContactTableHeader_Validation_Test"/>
+          <include name="myDetails_ContactPage_CurrentUrl_Validation_Test"/>
+          <include name="myDetails_ContactPage_EmergencyContactTableAddButton_Validation_Test"/>
+          <include name="myDetails_ContactPage_AddressTableHeader_Validation_Test"/>
+          <include name="contactPage_TearDown"/>
+          <include name="myDetails_ContactPage_AddPresentAddressWithCancelButton_Validation_Test"/>
+          <include name="myDetails_ContactPage_AddressTableAddButton_Validation_Test"/>
+          <include name="myDetails_ContactPage_AddEmergencyContactWithMandatoryFieldsData_Validation_Test"/>
+          <include name="contactPage_SetUp"/>
+          <include name="myDetails_ContactPage_AddPresentAddressPopUpHeading_Validation_Test"/>
+          <include name="myDetails_ContactPage_Title_Validation_Test"/>
+          <include name="myDetails_ContactPage_AddEmergencyContactPopUpHeading_Validation_Test"/>
+          <include name="myDetails_ContactPage_LogOutBrowsingBack_Validation_Test"/>
+          <include name="extentReportsInititation"/>
+          <include name="myDetails_ContactPage_AddPresentAddressWithCloseButton_Validation_Test"/>
+          <include name="myDetails_ContactPage_AddEmergencyContactWithCancelButton_Validation_Test"/>
+        </methods>
+      </class> <!-- com.TestCases.AdminMyDetailsContactPageTest -->
+      <class name="com.TestCases.CompanyDetailsPageTest">
+        <methods>
+          <include name="companyDetailsPage_HeadingLabelTextValidation_Test"/>
+          <include name="companyDetailsPage_TitleValidation_Test"/>
+          <include name="companyDetailsPage_CompanyDataValidation_Test"/>
+          <include name="companyDetailsPage_SetUp"/>
+          <include name="companyDetailsPage_CurrentUrlTest"/>
+          <include name="extentReportsInititation"/>
+          <include name="test"/>
+          <include name="validating_BackButton_Test"/>
+          <include name="companyDetailsPage_TearDown"/>
+        </methods>
+      </class> <!-- com.TestCases.CompanyDetailsPageTest -->
+      <class name="com.TestCases.ForgotPasswordPageTest">
+        <methods>
+          <include name="validating_ForgotPasswordPage_ExistingEmailCancelButton_Test"/>
+          <include name="validating_ForgotPasswordPage_Title_Test"/>
+          <include name="validating_ForgotPassPageFieldAvailability_Test"/>
+          <include name="extentReportsInititation"/>
+          <include name="forgotPasswordPage_TearDown"/>
+          <include name="validating_ForgotPasswordPage_EmployeemanagementLabelText_Text"/>
+          <include name="validating_ForgotPasswordPage_EmailLabelText_Test"/>
+          <include name="validating_ForgotPasswordPage_EmployFXLabelText_Test"/>
+          <include name="validating_ForgotPasswordPage_ExistingUserEmailWithSubmit_Test"/>
+          <include name="validating_ForgotPasswordPage_CurrentUrl_Test"/>
+          <include name="validating_ForgotPasswordPage_LoginLink_Test"/>
+          <include name="forgotPasswordPage_SetUp"/>
+          <include name="validating_ForgotPasswordPage_Heading_Test"/>
+        </methods>
+      </class> <!-- com.TestCases.ForgotPasswordPageTest -->
+      <class name="com.TestCases.EditCompanyPageTest">
+        <methods>
+          <include name="editCompanyPage_CurrentURL_Validation_Test"/>
+          <include name="editCompanyPage_AllFieldsCancel_Validation_Test"/>
+          <include name="editCompanyPage_SubHeadingLabelText_Validation_Test"/>
+          <include name="addCompanyPage_TearDown"/>
+          <include name="editCompanyPage_AllFields_Validation_Test"/>
+          <include name="extentReportsInititation"/>
+          <include name="addCompaniesPage_SetUp"/>
+          <include name="editCompanyPage_Title_Validation_Test"/>
+          <include name="editCompanyPage_AllMandatoryFields_Validation_Test"/>
+          <include name="editCompanyPage_HeadingLabelText_Validation_Test"/>
+        </methods>
+      </class> <!-- com.TestCases.EditCompanyPageTest -->
+      <class name="com.TestCases.AdminMyDetailsPageTest">
+        <methods>
+          <include name="adminMyDetails_AssetsOption_Validation_Test"/>
+          <include name="adminMyDetailsPage_EducationDetailsOption_Validation_Test"/>
+          <include name="adminMyDetailsPage_WorkAuthorizationOption_Validation_Test"/>
+          <include name="adminMyDetailsPage_ContactOption_Validation_Test"/>
+          <include name="adminMyDetailsPage_BackArrowButton_Validation_Test"/>
+          <include name="adminMyDetailsPage_EmploymentHistoryOption_Validating_Test"/>
+          <include name="adminMyDetailsPage_GeneralOption_Validation_Test"/>
+          <include name="adminMyDetails_ApplyForLeaveOption_Validation_Test"/>
+          <include name="adminMyDetailsPage_CurrentURL_Validation_Test"/>
+          <include name="adminMyDetails_DependentsOption_Validation_Test"/>
+          <include name="adminMyDetails_SkillsOption_Validation_Test"/>
+          <include name="adminMyDetails_HolidayCalender_Validation_Test"/>
+          <include name="adminMyDetails_TimesheetOption_Validation_Test"/>
+          <include name="extentReportsInititation"/>
+          <include name="adminMyDetailsPage_UserImage_Validation_Test"/>
+          <include name="adminMyDetailsPage_Title_Validation_Test"/>
+        </methods>
+      </class> <!-- com.TestCases.AdminMyDetailsPageTest -->
+      <class name="com.TestCases.AddCompanyPageTest">
+        <methods>
+          <include name="addCompanyPage_WithoutSecondary_Validation_Test"/>
+          <include name="addCompanyPage_CurrentURL_Validation_Test"/>
+          <include name="addCompanyPage_AllFields_Validation_Test"/>
+          <include name="addCompanyPage_HeadingLabelText_Validation_Test"/>
+          <include name="addCompanyPage_AllFieldsReset_Validation_Test"/>
+          <include name="addCompanyPage_AllFieldsCancel_Validation_Test"/>
+          <include name="extentReportsInititation"/>
+          <include name="addCompanyPage_SubHeadingLabelText_Validation_Test"/>
+          <include name="addCompaniesPage_SetUp"/>
+          <include name="addCompanyPage_TearDown"/>
+          <include name="addCompanyPage_MandatoryFields_Validation_Test"/>
+          <include name="addCompanyPage_Title_Validation_Test"/>
+        </methods>
+      </class> <!-- com.TestCases.AddCompanyPageTest -->
+      <class name="com.TestCases.LoginPageTest">
+        <methods>
+          <include name="loginPage_setUp"/>
+          <include name="loginPage_tearDown"/>
+          <include name="extentReportsInititation"/>
+          <include name="loginpage_AdminLogin_Test"/>
+          <include name="loginpage_Title_Test"/>
+        </methods>
+      </class> <!-- com.TestCases.LoginPageTest -->
+      <class name="com.TestCases.AdminHomePageTest">
+        <methods>
+          <include name="adminHomePage_TearDown"/>
+          <include name="dashboardPage_ValidatingLoggingOutBackButon_Test"/>
+          <include name="adminHomePage_ValidatingBrowserBackButton_Test"/>
+          <include name="adminHomePage_PreferencesOption_Validation_Test"/>
+          <include name="extentReportsInititation"/>
+          <include name="adminHomePage_SetUp"/>
+        </methods>
+      </class> <!-- com.TestCases.AdminHomePageTest -->
+      <class name="com.TestCases.AdminMyDetailsWorkAuthorizationPageTest">
+        <methods>
+          <include name="myDetails_WorkAuthorization_I94Option_AllFieldsDataWithSaveButton_Validation"/>
+          <include name="MyDetails_WorkAuthorization_PassportPresencesOfElements_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_CurrentURL_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_Title_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_AddI94DetailsHeading_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_WorkAuthorizationOption_MandatoryFieldsDataWithSaveButton_Validation"/>
+          <include name="myDetails_WorkAuthorization_I94Option_MandatoryFieldsDataWithSaveButton_Validation"/>
+          <include name="myDetails_WorkAuthorization_PassportOption_AddPassportDetailsPopUp_AllFieldsDataCloseButton_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_I94TableHeading_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_WorkAuthorizationTableHeading_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_PassportOption_AddButton_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_I94Option_AllFieldsDataWithCloseButton_Validation"/>
+          <include name="myDetails_WorkAuthorization_I94Option_LogOutBrowsingBack_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_I94Option_AllFieldsDataWithCancelButton_Validation"/>
+          <include name="myDetails_WorkAuthorization_WorkAuthorizationOption_AddButton_Validation_Test"/>
+          <include name="myDetails_WorkAuthorizaton_SetUp"/>
+          <include name="myDetails_WorkAuthorization_PassportOption_AddPassportDetailsPopUp_MandatoryFieldsDataSaveButton_Validation_Test"/>
+          <include name="MyDetails_WorkAuthorization_WorkAuthorizationPresencesOfElements_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_WorkAuthorizationOption_AllFieldsDataWithCloseButton_Validation"/>
+          <include name="myDetails_WorkAuthorization_PassportTableHeading_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_AddI94DetailsElementsToBePresent_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_WorkAuthorizationOption_AllFieldsDataWithCancelButton_Validation"/>
+          <include name="myDetails_WorkAuthorization_WorkAuthorizationOption_AllFieldsDataWithSaveButton_Validation"/>
+          <include name="myDetails_WorkAuthorization_TearDown"/>
+          <include name="myDetails_WorkAuthorization_PassportOption_AddPassportDetailsPopUp_AllFieldsDataSaveButton_Validation_Test"/>
+          <include name="MyDetails_WorkAuthorization_I94PresencesOfElements_Validation_Test"/>
+          <include name="extentReportsInititation"/>
+          <include name="myDetails_WorkAuthorization_PassportOption_AddPassportDetailsPopUp_AllFieldsDataCancelButton_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_I94AddButton_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_LogOutBrowsingBack_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_PassportOption_AddPassportDetailsPopUpHeading_Validation_Test"/>
+          <include name="myDetails_WorkAuthorization_PassportOption_LogOutBrowsingBack_Validation_Test"/>
+        </methods>
+      </class> <!-- com.TestCases.AdminMyDetailsWorkAuthorizationPageTest -->
+      <class name="com.TestCases.PreferencesPageTest">
+        <methods>
+          <include name="preferencesPage_SetUp"/>
+          <include name="preferencesPage_TearDown"/>
+          <include name="preferencesPage_ResetButtonValidation_Test"/>
+          <include name="preferencesPage_PreferenceHeadingLabelText_Validation_Test"/>
+          <include name="preferencesPage_SubmitButtonalidation_Test"/>
+          <include name="title_Validation_Test"/>
+          <include name="currentURL_Validation_Test"/>
+          <include name="extentReportsInititation"/>
+          <include name="preferencesPage_ChangePasswordHeadingLabelText_Validation_Test"/>
+        </methods>
+      </class> <!-- com.TestCases.PreferencesPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
